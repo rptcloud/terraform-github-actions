@@ -11,7 +11,7 @@ variable "location" {
 variable "naming_prefix" {
   description = "(Optional) Naming prefix used for resources. Defaults to adolabs."
   type        = string
-  default     = "adolabs"
+  default     = "kwm"
 }
 
 variable "asp_tier" {
